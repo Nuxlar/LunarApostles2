@@ -1,6 +1,6 @@
 using System.IO;
 
-namespace NewMod
+namespace LunarApostles
 {
     static class LanguageFolderHandler
     {
